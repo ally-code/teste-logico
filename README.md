@@ -71,7 +71,7 @@ Precisamos que essa estrutura seja convertida para o seguinte formato.
 ## Problema 2 - Números Primos
 Em determinada rotina precisamos de um relatório sobre números primos.
 
-A entrada do programa será um número qualquer. O seu trabalho é pegar os 5 maiores números primos que sejam menores que o número informado e então retornar alguns detalhes sobre eles. Modelo de entrada:
+A entrada do programa será um número qualquer. O seu trabalho é pegar os 5 maiores números primos que sejam menores ou iguais ao número informado e então retornar alguns detalhes sobre eles. Modelo de entrada:
 
 ```php
 2496
